@@ -1,2 +1,1 @@
-# PCDE-Activity-9.1
-MIT Data Engineering Exercise
+# Repository for Activities 9.1 and 9.2
